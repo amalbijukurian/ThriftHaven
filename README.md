@@ -1,6 +1,7 @@
 # Thrift Haven Marketplace
 
 A responsive website for a second-hand goods marketplace built using only HTML, CSS, and JavaScript.
+Link: thrift-haven.vercel.app
 
 ## Features
 
